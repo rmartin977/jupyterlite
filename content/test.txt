@@ -1,3 +1,0 @@
-This is my first Git test.
-Addition to test
-
