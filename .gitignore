@@ -114,3 +114,10 @@ dmypy.json
 # jupyterlite
 *.doit.db
 _output
+
+# Local Jupyter, Anaconda, and macOS files
+.DS_Store
+**/.DS_Store
+**/.virtual_documents/
+**/.ipynb_checkpoints/
+**/anaconda_projects/
